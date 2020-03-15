@@ -9,4 +9,5 @@ function Staff(name, position, nip, salary) {
 
 }
 // cara panggilnya menggunakan new
+// artinya membuat objek baru bernama irfan yang memiliki property dan value
 let irfan = new Staff('irfan fauzi', 'engineer', 8727364, '12.000.000');
